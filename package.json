@@ -3,6 +3,13 @@
   "version": "1.0.0",
   "description": "Node.js middleware to send JSON/JSONP responses",
   "main": "lib/index.js",
+  "keywords": [
+    "middleware",
+    "router",
+    "json",
+    "jsonp",
+    "response"
+  ],
   "babel": {
     "presets": [
       [
